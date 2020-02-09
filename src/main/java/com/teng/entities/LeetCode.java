@@ -1,7 +1,7 @@
 package com.teng.entities;
 
 public class LeetCode {
-    private String name = "Teng";
+    private String name = "Hello, Teng";
 
     public String getName() {
         return name;
